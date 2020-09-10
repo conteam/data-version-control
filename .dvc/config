@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storge
+['remote "remote_storge"']
+    url = /Users/test/dvc-remote
